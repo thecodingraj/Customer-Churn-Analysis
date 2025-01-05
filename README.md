@@ -13,7 +13,6 @@ To Analyze customer churn data to identify key drivers influencing churn, develo
 - How does product usage impact churn?
 - What percentage of churned customers were inactive members?
 - Who churns more: males or females?
-- Compares churn rates between genders to uncover any significant patterns.
 - What is the average credit score of churned customers?.
 - How much balance is lost due to churn?
 - Who are the high-balance churners?
