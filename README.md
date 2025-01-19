@@ -26,7 +26,7 @@ To Analyze customer churn data to identify key drivers influencing churn, develo
 ## Project Insights
 - Approximately 20% of customers churned, representing a significant retention challenge.
 - Customers with shorter tenure (0–3 years) exhibit the highest churn rates, indicating a need for early engagement strategies.
-- Region X has the highest churn rate at 30%, necessitating region-specific interventions.
+- Region Germany has the highest churn rate at 30%, necessitating region-specific interventions.
 - Age group 31–50 has the most churned customers, highlighting them as a critical demographic.
 - Customers using only one product are more likely to churn compared to those using multiple products.
 - 40% of churned customers were inactive, suggesting a strong correlation between inactivity and churn.
