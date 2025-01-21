@@ -36,4 +36,4 @@ To Analyze customer churn data to identify key drivers influencing churn, develo
 - 100 customers with balances exceeding $100,000 churned, representing high-value losses.
 
 ## Final Conclusion
-The analysis identifies key risk factors for customer churn. The most likely customers to churn are inactive members with low tenure (0–3 years), low product usage (1 product), and low estimated salary (₹30,000–₹50,000). Geographically, customers in Region Y are at the highest risk. Businesses should focus on engaging such customers through targeted retention strategies, improving customer satisfaction, and offering value-added services.
+The analysis identifies key risk factors for customer churn. The most likely customers to churn are inactive members with low tenure (0–3 years), low product usage (1 product), and low estimated salary (₹30,000–₹50,000). Geographically, customers in Region Germany are at the highest risk. Businesses should focus on engaging such customers through targeted retention strategies, improving customer satisfaction, and offering value-added services.
